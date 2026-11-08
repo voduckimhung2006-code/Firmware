@@ -1,4 +1,4 @@
-# githubfirst
+# Firmware
 
 #include <Adafruit_Fingerprint.h>
 #include <LiquidCrystal_I2C.h>
